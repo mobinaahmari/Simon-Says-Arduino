@@ -26,6 +26,17 @@ A classic **Simon Says memory game** implemented using **Arduino**, LEDs, push b
 
 ---
 
+
+## 🖼️ Circuit Schematic
+
+The following image shows the complete circuit schematic of the project:
+
+<img width="300" height="300" alt="SimonSays-Schematic" src="https://github.com/user-attachments/assets/b1db9898-91e7-4fb6-949d-5ba0c5ebdafc" />
+
+
+---
+
+
 ## 🔌 Pin Configuration
 
 | Component | Arduino Pins |
